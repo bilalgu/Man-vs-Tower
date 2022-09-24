@@ -1,2 +1,2 @@
 # Man-vs-Tower
-Pour développer le projet : Executer le fichier jeu.py
+Pour lancer le projet : Executer le fichier jeu.py
